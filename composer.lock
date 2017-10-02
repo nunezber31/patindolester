@@ -93,7 +93,7 @@
                 }
             ],
             "description": "Admin interface for managing backups in Backpack, on Laravel 5.2+",
-            "homepage": "https://github.com/laravel-backpack/BackupManager",
+            "homepage": "https://github.com/Laravel-Backpack/BackupManager",
             "keywords": [
                 "backpack",
                 "backup",
@@ -157,7 +157,7 @@
                 }
             ],
             "description": "Laravel Backpack's base package, which offers admin authentication and a blank admin panel using AdminLTE",
-            "homepage": "https://github.com/laravel-backpack/base",
+            "homepage": "https://github.com/Laravel-Backpack/base",
             "keywords": [
                 "backpack",
                 "base"
@@ -215,7 +215,7 @@
                 }
             ],
             "description": "Quickly build an admin interface for your Eloquent models, using Laravel 5. Build a CMS in a matter of minutes.",
-            "homepage": "https://github.com/laravel-backpack/CRUD",
+            "homepage": "https://github.com/Laravel-Backpack/CRUD",
             "keywords": [
                 "Admin Interface",
                 "admin panel",
@@ -275,7 +275,7 @@
                 }
             ],
             "description": "An interface to preview, download and delete Laravel log files.",
-            "homepage": "https://github.com/laravel-backpack/LogManager",
+            "homepage": "https://github.com/Laravel-Backpack/LogManager",
             "keywords": [
                 "backpack",
                 "laravel",
@@ -445,7 +445,7 @@
                 }
             ],
             "description": "Create admin panels for presentation websites on Laravel, using page templates and Backpack\\CRUD.",
-            "homepage": "https://github.com/laravel-backpack/PageManager",
+            "homepage": "https://github.com/Laravel-Backpack/PageManager",
             "keywords": [
                 "Content management system",
                 "admin panel",
@@ -515,7 +515,7 @@
                 }
             ],
             "description": "Users and permissions management interface for Laravel 5 using Backpack CRUD.",
-            "homepage": "https://github.com/laravel-backpack/permissionmanager",
+            "homepage": "https://github.com/Laravel-Backpack/permissionmanager",
             "keywords": [
                 "backpack",
                 "backpack permission",
@@ -578,7 +578,7 @@
                 }
             ],
             "description": "Application settings interface for Laravel 5 using Backpack CRUD.",
-            "homepage": "https://github.com/laravel-backpack/settings",
+            "homepage": "https://github.com/Laravel-Backpack/settings",
             "keywords": [
                 "backpack",
                 "backpack settings",
@@ -3656,7 +3656,7 @@
                 }
             ],
             "description": "Generate files for laravel projects",
-            "homepage": "https://github.com/laravel-backpack/generators",
+            "homepage": "https://github.com/Laravel-Backpack/generators",
             "keywords": [
                 "config",
                 "generators",
