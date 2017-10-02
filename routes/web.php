@@ -29,3 +29,12 @@ Route::group([
 
 Route::get('api/article', 'Api\ArticleController@index');
 Route::get('api/article/{id}', 'Api\ArticleController@show');
+
+
+// --------------------
+// Pages routes
+// --------------------
+Route::get('/web-dev', function() {
+	return view('web-dev');
+});
+Route::get('/about-us', 'MonsterCrudController@about-us');
